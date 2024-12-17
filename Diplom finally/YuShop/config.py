@@ -1,5 +1,5 @@
 
-API = '8095309527:AAHrBi9CgvQW2UQ4iap9_eyvBQ_MVQjjl24'
+API = ''
 
 price_air_force = 14990
 price_jordan1_low = 12990
@@ -21,5 +21,5 @@ price_mm8_future = 32990
 price_rick_low = 40990
 price_balen_runner = 35990
 
-admins = [1005345080]
+admins = []
 
